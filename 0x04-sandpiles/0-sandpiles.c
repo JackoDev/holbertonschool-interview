@@ -78,6 +78,7 @@ int grid_unstable(int grid1[3][3])
  *
  * Return: nothing
  **/
+
 void fill_0(int grid2[3][3])
 {
 	int i, j;
