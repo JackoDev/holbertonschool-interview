@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "avl_binary_trees.h"
+#include "binary_trees.h"
 
 static int print_t(const binary_tree_t *tree, int offset, int depth, char **s);
 static size_t _height(const binary_tree_t *tree);

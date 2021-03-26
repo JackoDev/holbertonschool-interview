@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "avl_binary_trees.h"
+#include "binary_trees.h"
 
 
 /**
