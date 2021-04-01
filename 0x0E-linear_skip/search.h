@@ -16,7 +16,8 @@
  * Description: Singly linked
  */
 
-typedef struct skiplist_s {
+typedef struct skiplist_s
+{
 	int n;
 	size_t index;
 	struct skiplist_s *next;
